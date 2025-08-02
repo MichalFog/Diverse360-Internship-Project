@@ -59,10 +59,7 @@ npm run dev
 ```
 
 **Live URLs after deployment:**
-- Frontend: `https://diverse-360.netlify.app`
-- Backend API: `https://diverse-360-backend.onrender.com/api`
-- Database: Managed by Supabase
-
+link: https://diversitech.pages.dev/
 ---
 
 ## 🔧 Prerequisites
@@ -292,3 +289,4 @@ Your full-stack application is now running in production with:
 - ✅ **Auto-deployment** from GitHub
 
 *Happy coding! 🚀*
+
